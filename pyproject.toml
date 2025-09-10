@@ -8,5 +8,6 @@ exclude = '''
   | \.venv
   | build
   | dist
+  | .\venv
 )/
 '''
