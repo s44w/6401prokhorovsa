@@ -1,3 +1,9 @@
+# Project
+requirements_flake.txt
+
+
+
+### Default
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -139,6 +145,7 @@ celerybeat.pid
 .envrc
 .venv
 env/
+.idea
 venv/
 ENV/
 env.bak/
