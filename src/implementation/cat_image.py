@@ -11,14 +11,14 @@ class CatImage:
     def __add__(self, other):
         if not isinstance(other, CatImage):
             return ValueError(f"Passed {type(other)}, needs CatImage object")
-        if self.image:
+        if len(self.image):
             result_image = self.image + other.image
             return CatImage(image=result_image)
 
     def __sub__(self, other):
         if not isinstance(other, CatImage):
             return ValueError(f"Passed {type(other)}, needs CatImage object")
-        if self.image:
+        if len(self.image):
             result_image = self.image - other.image
             return CatImage(image=result_image)
 
