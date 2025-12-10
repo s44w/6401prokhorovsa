@@ -1,5 +1,6 @@
 import logging
 import time
+from functools import wraps
 
 
 class PipelineLogger:
@@ -18,12 +19,15 @@ class PipelineLogger:
         self.logger.addHandler(fh)
 
     def timeit(self, func):
-        def wrapper(*args, **kwargs):
+        @wraps(func)
+        async def async_wrapper(*args, **kwargs):
             self.logger.info(f"Starting '{func.__name__}'...")
             start = time.time()
-            result = func(*args, **kwargs)
-            end = time.time()
-            self.logger.info(f"Finished '{func.__name__}' in {(end - start): .3f}s")
+            try:
+                result = await func(*args, **kwargs)
+            finally:
+                end = time.time()
+                self.logger.info(f"Finished '{func.__name__}' in {(end - start): .3f}s")
             return result
 
-        return wrapper
+        return async_wrapper
