@@ -4,19 +4,25 @@ from functools import wraps
 
 
 class PipelineLogger:
-    def __init__(self, log_file: str = "pipeline.log"):
+    def __init__(self):
         self.logger = logging.getLogger("pipeline_logger")
         self.logger.setLevel(logging.DEBUG)
-        formatter = logging.Formatter(
-            "%(asctime)s - %(levelname)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S"
-        )
-        ch = logging.StreamHandler()
-        ch.setFormatter(formatter)
-        self.logger.addHandler(ch)
 
-        fh = logging.FileHandler(log_file)
-        fh.setFormatter(formatter)
-        self.logger.addHandler(fh)
+        file_handler = logging.FileHandler("app.log")
+        file_handler.setLevel(logging.DEBUG)
+        file_formatter = logging.Formatter(
+            "%(asctime)s - %(levelname)s - %(filename)s:%(lineno)d - %(message)s"
+        )
+        file_handler.setFormatter(file_formatter)
+
+        console_handler = logging.StreamHandler()
+        console_handler.setLevel(logging.INFO)
+        console_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+        console_handler.setFormatter(console_formatter)
+
+        self.logger.handlers.clear()
+        self.logger.addHandler(file_handler)
+        self.logger.addHandler(console_handler)
 
     def timeit(self, func):
         @wraps(func)

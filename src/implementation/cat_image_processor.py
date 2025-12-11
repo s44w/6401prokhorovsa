@@ -4,9 +4,8 @@ import os
 from concurrent.futures import ProcessPoolExecutor
 from typing import List
 
-from image_processing import ImageProcessing
-
-from src.implementation.cat_image import CatImage
+from .cat_image import CatImage
+from .image_processing import ImageProcessing
 
 logger = logging.getLogger("pipeline_logger")
 
