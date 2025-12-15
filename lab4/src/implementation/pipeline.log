@@ -1,0 +1,132 @@
+2025-11-05 22:02:42 - INFO - Starting 'run_pipeline_async'...
+2025-11-05 22:02:42 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-05 22:02:42 - INFO - Fetching cat URLs...
+2025-11-05 22:04:15 - INFO - Starting 'run_pipeline_async'...
+2025-11-05 22:04:15 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-05 22:04:15 - INFO - Fetching cat URLs...
+2025-11-05 22:04:16 - INFO - Got 4 URLs with assigned indices
+2025-11-05 22:04:16 - INFO - Downloading image 1 started
+2025-11-05 22:04:16 - INFO - Downloading image 2 started
+2025-11-05 22:04:16 - INFO - Downloading image 3 started
+2025-11-05 22:04:16 - INFO - Downloading image 4 started
+2025-11-05 22:06:06 - INFO - Starting 'run_pipeline_async'...
+2025-11-05 22:06:06 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-05 22:06:06 - INFO - Fetching cat URLs...
+2025-11-05 22:06:07 - INFO - Got 4 URLs with assigned indices
+2025-11-05 22:06:07 - INFO - Downloading image 1 started
+2025-11-05 22:06:07 - INFO - Downloading image 2 started
+2025-11-05 22:06:07 - INFO - Downloading image 3 started
+2025-11-05 22:06:07 - INFO - Downloading image 4 started
+2025-11-05 22:08:06 - INFO - Starting 'run_pipeline_async'...
+2025-11-05 22:08:06 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-05 22:08:06 - INFO - Fetching cat URLs...
+2025-11-05 22:08:07 - INFO - Got 4 URLs with assigned indices
+2025-11-05 22:08:07 - INFO - Downloading image 1 started
+2025-11-05 22:08:07 - INFO - Downloading image 2 started
+2025-11-05 22:08:07 - INFO - Downloading image 3 started
+2025-11-05 22:08:07 - INFO - Downloading image 4 started
+2025-11-05 22:08:53 - INFO - Starting 'run_pipeline_async'...
+2025-11-05 22:08:53 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-05 22:08:53 - INFO - Fetching cat URLs...
+2025-11-05 22:08:54 - INFO - Got 4 URLs with assigned indices
+2025-11-05 22:08:54 - INFO - Downloading image 1 started
+2025-11-05 22:08:54 - INFO - Downloading image 2 started
+2025-11-05 22:08:54 - INFO - Downloading image 3 started
+2025-11-05 22:08:54 - INFO - Downloading image 4 started
+2025-11-05 22:11:14 - INFO - Starting 'run_pipeline_async'...
+2025-11-05 22:11:14 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-05 22:11:14 - INFO - Fetching cat URLs...
+2025-11-05 22:11:15 - INFO - Got 4 URLs with assigned indices
+2025-11-05 22:11:15 - INFO - Downloading image 1 started
+2025-11-05 22:11:15 - INFO - Downloading image 2 started
+2025-11-05 22:11:15 - INFO - Downloading image 3 started
+2025-11-05 22:11:15 - INFO - Downloading image 4 started
+2025-11-05 22:14:31 - INFO - Starting 'run_pipeline_async'...
+2025-11-05 22:14:31 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-05 22:14:31 - INFO - Fetching cat URLs...
+2025-11-05 22:14:32 - INFO - Got 4 URLs with assigned indices
+2025-11-05 22:14:32 - INFO - Downloading image 1 started
+2025-11-05 22:14:32 - INFO - Downloading image 2 started
+2025-11-05 22:14:32 - INFO - Downloading image 3 started
+2025-11-05 22:14:32 - INFO - Downloading image 4 started
+2025-11-24 20:41:56 - INFO - Starting 'run_pipeline_async'...
+2025-11-24 20:41:56 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-24 20:41:56 - INFO - Fetching cat URLs...
+2025-11-24 20:41:57 - INFO - Got 4 URLs with assigned indices
+2025-11-24 20:41:57 - INFO - Downloading image 1 started
+2025-11-24 20:41:57 - INFO - Downloading image 2 started
+2025-11-24 20:41:57 - INFO - Downloading image 3 started
+2025-11-24 20:41:57 - INFO - Downloading image 4 started
+2025-11-24 20:43:26 - INFO - Starting 'run_pipeline_async'...
+2025-11-24 20:43:26 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-24 20:43:26 - INFO - Fetching cat URLs...
+2025-11-24 20:43:27 - INFO - Got 4 URLs with assigned indices
+2025-11-24 20:43:27 - INFO - Downloading image 1 started
+2025-11-24 20:43:27 - INFO - Downloading image 2 started
+2025-11-24 20:43:27 - INFO - Downloading image 3 started
+2025-11-24 20:43:27 - INFO - Downloading image 4 started
+2025-11-24 20:47:32 - INFO - Starting 'run_pipeline_async'...
+2025-11-24 20:47:32 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-24 20:47:32 - INFO - Fetching cat URLs...
+2025-11-24 20:47:33 - INFO - Got 4 URLs with assigned indices
+2025-11-24 20:47:33 - INFO - Downloading image 1 started
+2025-11-24 20:47:33 - INFO - Downloading image 2 started
+2025-11-24 20:47:33 - INFO - Downloading image 3 started
+2025-11-24 20:47:33 - INFO - Downloading image 4 started
+2025-11-24 20:48:12 - INFO - Starting 'run_pipeline_async'...
+2025-11-24 20:48:12 - INFO - Finished 'run_pipeline_async' in  0.001s
+2025-11-24 20:48:12 - INFO - Fetching cat URLs...
+2025-11-24 20:48:13 - INFO - Got 4 URLs with assigned indices
+2025-11-24 20:48:13 - INFO - Downloading image 1 started
+2025-11-24 20:48:13 - INFO - Downloading image 2 started
+2025-11-24 20:48:13 - INFO - Downloading image 3 started
+2025-11-24 20:48:13 - INFO - Downloading image 4 started
+2025-11-24 20:58:34 - INFO - Starting 'run_pipeline_async'...
+2025-11-24 20:58:34 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-24 20:58:34 - INFO - Fetching cat URLs...
+2025-11-24 20:59:00 - INFO - Starting 'run_pipeline_async'...
+2025-11-24 20:59:00 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-24 20:59:00 - INFO - Fetching cat URLs...
+2025-11-24 21:12:11 - INFO - Starting 'run_pipeline_async'...
+2025-11-24 21:12:11 - INFO - Finished 'run_pipeline_async' in  0.000s
+2025-11-24 21:12:11 - INFO - Fetching cat URLs...
+2025-11-24 21:12:12 - INFO - Downloading images...
+2025-11-24 21:12:15 - INFO - Saving original images...
+2025-11-24 21:12:16 - INFO - Processing images...
+2025-11-24 21:12:20 - INFO - Saving processed images...
+2025-11-24 21:12:21 - INFO - Pipeline completed. Saved 4 images to data
+2025-11-24 21:21:29 - INFO - Starting 'run_pipeline'...
+2025-11-24 21:22:21 - INFO - Starting 'run_pipeline'...
+2025-11-24 21:22:36 - INFO - Saved data\1_original.png and data\1_processed.png
+2025-11-24 21:22:36 - INFO - Saved data\2_original.png and data\2_processed.png
+2025-11-24 21:22:36 - INFO - Saved data\3_original.png and data\3_processed.png
+2025-11-24 21:22:37 - INFO - Saved data\4_original.png and data\4_processed.png
+2025-11-24 21:22:37 - INFO - Saved data\5_original.png and data\5_processed.png
+2025-11-24 21:22:37 - INFO - Saved data\6_original.png and data\6_processed.png
+2025-11-24 21:22:38 - INFO - Saved data\7_original.png and data\7_processed.png
+2025-11-24 21:22:38 - INFO - Saved data\8_original.png and data\8_processed.png
+2025-11-24 21:22:38 - INFO - Saved data\9_original.png and data\9_processed.png
+2025-11-24 21:22:41 - INFO - Saved data\10_original.png and data\10_processed.png
+2025-11-24 21:22:41 - INFO - Finished 'run_pipeline' in  19.880s
+2025-11-24 22:33:10 - INFO - Starting 'run_pipeline'...
+2025-11-24 22:33:44 - INFO - Saved data\1_original.png and data\1_processed.png
+2025-11-24 22:33:45 - INFO - Saved data\2_original.png and data\2_processed.png
+2025-11-24 22:33:45 - INFO - Saved data\3_original.png and data\3_processed.png
+2025-11-24 22:33:45 - INFO - Saved data\4_original.png and data\4_processed.png
+2025-11-24 22:33:46 - INFO - Saved data\5_original.png and data\5_processed.png
+2025-11-24 22:33:46 - INFO - Saved data\6_original.png and data\6_processed.png
+2025-11-24 22:33:46 - INFO - Saved data\7_original.png and data\7_processed.png
+2025-11-24 22:33:46 - INFO - Saved data\8_original.png and data\8_processed.png
+2025-11-24 22:33:47 - INFO - Saved data\9_original.png and data\9_processed.png
+2025-11-24 22:33:47 - INFO - Saved data\10_original.png and data\10_processed.png
+2025-11-24 22:33:47 - INFO - Saved data\11_original.png and data\11_processed.png
+2025-11-24 22:33:49 - INFO - Saved data\12_original.png and data\12_processed.png
+2025-11-24 22:33:49 - INFO - Saved data\13_original.png and data\13_processed.png
+2025-11-24 22:33:49 - INFO - Saved data\14_original.png and data\14_processed.png
+2025-11-24 22:33:50 - INFO - Saved data\15_original.png and data\15_processed.png
+2025-11-24 22:33:50 - INFO - Saved data\16_original.png and data\16_processed.png
+2025-11-24 22:33:51 - INFO - Saved data\17_original.png and data\17_processed.png
+2025-11-24 22:33:51 - INFO - Saved data\18_original.png and data\18_processed.png
+2025-11-24 22:33:51 - INFO - Saved data\19_original.png and data\19_processed.png
+2025-11-24 22:33:51 - INFO - Saved data\20_original.png and data\20_processed.png
+2025-11-24 22:33:51 - INFO - Finished 'run_pipeline' in  41.687s
