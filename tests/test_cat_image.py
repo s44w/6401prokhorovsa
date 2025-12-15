@@ -27,7 +27,3 @@ class TestCatImage(unittest.TestCase):
 
         self.assertEqual(result.shape, (3, 3))
         self.assertEqual(result.dtype, np.float32)
-
-
-if __name__ == "__main__":
-    unittest.main()

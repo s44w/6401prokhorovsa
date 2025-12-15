@@ -34,6 +34,7 @@ async def run_pipeline_async(limit: int = 10):
     processor = CatImageProcessor()
 
     pipeline_logger.logger.info("Fetching cat URLs...")
+    pipeline_logger.logger.debug("debug!!!...")
     cat_data = await client.fetch_cats_urls(limit=limit)
     urls_with_indices = [(entry["url"], idx + 1) for idx, entry in enumerate(cat_data)]
 
